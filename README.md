@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnfigueredo&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="pic-pic" height="50" style="border-radius:50px;" src="https://pa1.narvii.com/6724/9e879eead027a4c3467d5eb50fa1ece709d6de58_hq.gif">
+  <img align="right" alt="Metal-pic" height="50" style="border-radius:50px;" src="https://pa1.narvii.com/6724/9e879eead027a4c3467d5eb50fa1ece709d6de58_hq.gif">
 </div>
   
 ##
