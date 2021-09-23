@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! Welcome to my GitHub profile!😎
 
-<!--
-**lincolnfigueredo/lincolnfigueredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/lincolnfigueredo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnfigueredo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnfigueredo&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6724/9e879eead027a4c3467d5eb50fa1ece709d6de58_hq.gif">
+</div>
+  
+##
+  
+<div>
+  <a href="https://www.linkedin.com/in/lincolnfigueredo1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
