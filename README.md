@@ -14,7 +14,7 @@
   <img align="center" alt="Lincoln-CPP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img align="center" alt="Lincoln-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Lincoln-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Lincoln-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+  <img align="center" alt="Lincoln-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
 </div>
   
 ##
