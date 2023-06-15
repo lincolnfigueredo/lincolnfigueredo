@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/lincolnfigueredo" target="_blank"><img align="left" alt="Metal-pic" height="50" width="40" style="border-radius:50px;" src="https://pa1.narvii.com/6724/9e879eead027a4c3467d5eb50fa1ece709d6de58_hq.gif" target="_blank"></a>
+  <a href="https://github.com/lincolnfigueredo" target="_blank"><img align="left" alt="Metal-pic" height="50" width="45" style="border-radius:50px;" src="https://pa1.narvii.com/6724/9e879eead027a4c3467d5eb50fa1ece709d6de58_hq.gif" target="_blank"></a>
   <h1>Hello!</h1>
 </div>
 
