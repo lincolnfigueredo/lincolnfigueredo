@@ -13,14 +13,16 @@
 <br>
 
 <div align="center">
-  <img align="center" alt="Lincoln-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Lincoln-CPP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-  <img align="center" alt="Lincoln-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Lincoln-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-  <img align="center" alt="Lincoln-Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img align="center" alt="Lincoln-Bash" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
-  <img align="center" alt="Lincoln-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Lincoln-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+  <a href="https://github.com/lincolnfigueredo" target="_blank">
+    <img align="center" alt="Lincoln-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+    <img align="center" alt="Lincoln-CPP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" alt="Lincoln-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+    <img align="center" alt="Lincoln-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+    <img align="center" alt="Lincoln-Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+    <img align="center" alt="Lincoln-Bash" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
+    <img align="center" alt="Lincoln-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+    <img align="center" alt="Lincoln-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+  </a>
 </div>
 
 <br>
