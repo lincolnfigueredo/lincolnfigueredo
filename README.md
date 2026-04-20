@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://github.com/lincolnfigueredo"><img align="left" alt="Metal-pic" height="50" width="50" style="border-radius:50px;" src="https://media.tenor.com/MDxs9sUkJ_AAAAAM/wizard-dance.gif" target="_blank"></a>
+<a href="https://github.com/lincolnfigueredo" target="_blank"><img align="left" alt="Metal-pic" height="50" width="50" style="border-radius:50px;" src="https://media.tenor.com/MDxs9sUkJ_AAAAAM/wizard-dance.gif" target="_blank"></a>
 
 </div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=root@themeteor:~%24;asdfghjklkjhgfdsa)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=root@themeteor:~%24;asdfghjklkjhgfdsa)](https://github.com/lincolnfigueredo)
   
 </div>
 
