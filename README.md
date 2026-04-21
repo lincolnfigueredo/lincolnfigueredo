@@ -111,7 +111,7 @@
     [►] Advanced Mobile Security Testing
     [►] Kernel Exploitation Research    
     [►] AI/ML Security Assessment       
-    [ ] Hardware/Embedded Pentesting    
+    [။‌‌‌‌‌] Hardware/Embedded Pentesting    
 
 </div>
 
