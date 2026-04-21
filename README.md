@@ -43,7 +43,7 @@
 
 ### GITHUB INTELLIGENCE
 
-> *Data refreshed automatically? • Hmm...*
+*Data refreshed automatically? • Hmm...*
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lincolnfigueredo&show_icons=true&theme=neon&include_all_commits=true&count_private=true&hide_border=true&title_color=ff0000&text_color=c9d1d9&icon_color=ff0000&bg_color=0d1117"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnfigueredo&layout=compact&theme=neon&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117&langs_count=6"/>
