@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/lincolnfigueredo" target="_blank"><img align="left" alt="Metal-pic" height="50" width="50" style="border-radius:50 px;" src="https://media.tenor.com/MDxs9sUkJ_AAAAAM/wizard-dance.gif" target="_blank"></a>
+<a href="https://github.com/lincolnfigueredo" target="_blank"><img align="left" alt="Metal-pic" height="50" width="50" style="border-radius:50px;" src="https://media.tenor.com/MDxs9sUkJ_AAAAAM/wizard-dance.gif" target="_blank"></a>
 
 </div>
 
